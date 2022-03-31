@@ -1,0 +1,64 @@
+*{
+    text-transform: uppercase;
+}
+.mauden {
+    font-size: 14px;
+    line-height: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+hr {
+    height: 2px;
+    color: black;
+    background-color: silver;
+    width: 50%;
+    margin-left: 0;
+    border-width: 0;
+       
+
+
+}
+img{
+    width: 50%;
+    height: 50%;
+}
+h4.maudo {
+    color: red;
+    text-decoration: underline;
+}
+li.mauden {
+    color: black;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: 18px;
+    line-height: 22px;
+}
+ul.mauden {
+    color: black;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: 18px;
+    line-height: 22px;
+}
+.maucam li {
+    color: orange;
+    font-style: 18px;
+    line-height: 22px;
+    
+}
+h4 {
+  color: red;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration: underline;
+  
+
+}
+li.mauxanh {
+    font-size: 16px;
+    text-decoration: none;
+    line-height: 20px;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
